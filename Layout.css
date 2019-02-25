@@ -3,6 +3,7 @@
     background-color: #3333AA;
     color: #000000;
     margin-bottom: 0;
+    
 }
 .navbar{
     margin-bottom: 0;
@@ -14,10 +15,10 @@
     color: white;
 }
 .panel{
-    background-color: #cccccc;
+    background-color: #bbbbbb;
 }
 .body{
-    background-color: #eeeeee;
+    background-color: #dddddd;
 }
 #page{
     background-color: #4444BB
